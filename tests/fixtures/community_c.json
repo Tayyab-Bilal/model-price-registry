@@ -1,0 +1,7 @@
+{"entries": {
+  "acme-chat-large": {"price": {"in": "3.00", "out": "18.00"}, "unit": "usd/Mtok"},
+  "acme-chat-small": {"price": {"in": "0.25", "out": "1.50"}, "unit": "usd/Mtok"},
+  "acme-code-pro": {"price": {"in": "2.50", "out": "8.00"}, "unit": "usd/Mtok"},
+  "acme-embed-v2": {"price": {"in": "0.10"}, "unit": "usd/Mtok"},
+  "acme-rerank-1": {"price": {"in": "0.05"}, "unit": "usd/kchar"}
+}}
