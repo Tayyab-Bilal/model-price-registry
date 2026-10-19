@@ -1,0 +1,5 @@
+[
+  {"model": "acme-listen-1", "unit": "second", "price": 0.0001},
+  {"model": "acme-rerank-1", "unit": "search", "price": 0.002},
+  {"model": "acme-embed-v2", "unit": "mtok_in", "price": 0.12}
+]

@@ -1,0 +1,7 @@
+{"models": {
+  "acme-chat-large": {"input_cost_per_token": 3e-06, "output_cost_per_token": 1.8e-05, "cache_read_input_token_cost": 4e-07},
+  "acme-chat-small": {"input_cost_per_token": 2.5e-07, "output_cost_per_token": 1.25e-06},
+  "acme-code-pro": {"input_cost_per_token": 2.5e-06, "output_cost_per_token": 8e-06},
+  "acme-listen-1": {"audio_cost_per_second": 0.0001},
+  "acme-rerank-1": {"cost_per_search": 0.002}
+}}

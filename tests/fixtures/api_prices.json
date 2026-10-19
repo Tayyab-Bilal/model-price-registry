@@ -1,0 +1,10 @@
+{"data": [
+  {"id": "acme/acme-chat-large", "pricing": {"prompt": "0.000003", "completion": "0.000018", "input_cache_read": "0.0000003"}},
+  {"id": "acme/acme-chat-small", "pricing": {"prompt": "0.00000025", "completion": "0.00000125"}},
+  {"id": "acme/acme-code-pro", "pricing": {"prompt": "0.000002", "completion": "0.000008"}},
+  {"id": "acme/acme-embed-v2", "pricing": {"prompt": "0.0000001"}},
+  {"id": "acme/acme-rerank-1", "pricing": {"search": "0.002"}},
+  {"id": "acme/acme-live-1", "pricing": {"prompt": "0.000004", "completion": "0.000016", "audio": "0.000032"}},
+  {"id": "acme/acme-listen-1", "pricing": {"audio": "0.0000025"}},
+  {"id": "other/unlisted-model", "pricing": {"prompt": "0.000001"}}
+]}

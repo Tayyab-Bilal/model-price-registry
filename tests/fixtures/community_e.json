@@ -1,0 +1,5 @@
+[
+  {"model": "acme-live-1", "modality": "text", "per": "token", "cents": 0.0004},
+  {"model": "acme-live-1", "modality": "audio", "per": "token", "cents": 0.0032},
+  {"model": "acme-listen-1", "modality": "audio", "per": "token", "cents": 0.00025}
+]
